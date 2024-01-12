@@ -1,0 +1,5 @@
+name: GroupSystem
+version: '${project.version}'
+main: de.therealdev.groupsystem.GroupSystem
+api-version: '1.19'
+
